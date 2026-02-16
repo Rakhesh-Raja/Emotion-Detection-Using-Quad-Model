@@ -2,10 +2,9 @@
 Quad-Modal ERC: Elevates Contextual History as a 4th modality. Uses a Model Zoo (RoBERTa, Qwen LLM, WavLM, SigLIP) for robust "in-the-wild" emotion detection on MELD. Features Cross-Modal Gating to solve modality dominance and achieve SOTA F1-scores in multi-party conversations.
 Quad-Modal-ERC: Multimodal Emotion Recognition with Causal Contextual History
 
-![alt text](https://img.shields.io/badge/Paper-Arxiv-red)
 
 
-![alt text](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C.svg)
+
 
 This repository implements the Quad-Modal Method, a novel architecture for Emotion Recognition in Conversation (ERC). Unlike traditional tri-modal systems, our framework treats Contextual History as a formal fourth modality, ensuring causal coherence and situational awareness in multi-party dialogues.
 
